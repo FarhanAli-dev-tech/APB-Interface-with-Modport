@@ -19,7 +19,7 @@ The project models a minimal APB (Advanced Peripheral Bus) subsystem:
   `virtual apb_if.master` handle and issues write/read transactions, then
   self-checks the data read back against what was written.
 
-<img width="1024" height="496" alt="image" src="https://github.com/user-attachments/assets/72c95a6f-dd02-4380-a70f-381c251a9fdb" />
+<img width="766" height="316" alt="image" src="https://github.com/user-attachments/assets/01d3f783-b9b9-4034-b808-b6219a48f965" />
 
 ## Repository structure
 
@@ -81,9 +81,5 @@ ALL TESTS PASSED
 ```
 
 ## Waveform
-<img width="987" height="366" alt="image" src="https://github.com/user-attachments/assets/f4823486-2f70-424d-bea5-798b503b943e" />
+<img width="631" height="234" alt="image" src="https://github.com/user-attachments/assets/b7f24201-882e-49ae-a9da-ee6c404d0113" />
 
-
-## License
-
-MIT
